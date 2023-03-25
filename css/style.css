@@ -1,0 +1,338 @@
+.card{
+
+    width:350px;
+    box-sizing: border-box;
+    text-align:center;
+    /* Top -right Bottom-left */
+    padding: 50px 40px 50px 40px;
+    margin:25px  auto ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+
+}
+    .two{
+      
+         width:350px;
+         box-sizing: border-box;
+         text-align:center;
+         /* Top -right Bottom-left */
+         padding: 50px 40px 50px 40px;
+         margin:25px  auto ;
+         font-family: Arial, Helvetica, sans-serif;
+      
+     
+    }
+
+    .three{
+        color:honeydew;
+        margin-right:  0 auto;
+        margin-left: 0  ;
+    }
+    .card-1{
+        height: 500px;
+        width: 400px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin: ;
+        background-image: url(../image/background\ imag\ 02.jpg);
+        color:chartreuse;
+        display:inline-block;
+        background-position: cover;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding: 30px 40px;
+        
+    }
+    .card a{
+        text-decoration: none;
+        color:white;
+        background-color: black;
+        padding: 10px 25px;
+        display:inline-block;
+    }
+
+   
+   
+
+
+.cardparent{
+  
+    display:inline-block;
+    width: 100%px;
+    margin:0 auto;
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    padding: 10px 50px;
+    margin-left: 0;
+    margin-right:0 auto;
+   border:  5px groove red ;
+   padding:30px ;
+   margin-top: 0 auto;
+   background-image: url(../image/photo-1678266074427-d7b9ef4bf39b.avif);
+   background-repeat:none ;
+   background-image: cover;
+   background-size: cover ;
+}
+one{
+    background-color: lightcoral;
+    width:350px;
+    box-sizing: border-box;
+    text-align:center;
+    /* Top -right Bottom-left */
+    padding: 50px ;
+    margin:25px ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.one{
+    background-image: url(../image/boutique-hotel-alhambra-636369310327818952_400_225@2x.jpeg);
+    width:350;
+    padding:100 200;
+    margin:auto;
+}
+
+.card-2{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/dubai\ 3.jpg);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-3{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/boutique-hotel-alhambra-636369310327818952_400_225@2x.jpeg);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+.card-4{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/white-elephant-palm-beach-19_100HTLSWB22-4f74d0f99c5d41769049e996df06b499.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-5{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/dubai\ 6.jpg);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+
+
+.card-6{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/waldorf-astoria-los-cabos-pedregal-32_100HTLSWB22-f3e4793e8ec144928c2d3e0f5731372e.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+
+.card-7{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/namale-resort-and-spa-59_100HTLSWB22-af81b3e0870c42a49507301b965e5366.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-8{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/rancho-santana-56_100HTLSWB22-9cd7d118820c4264adea13296dcd0924.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-9{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/the-willard-intercontinental-washington-dc-05-DCHOTELSWB22-b5a1842ca3584dc0993750f764a37b8e.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-10{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/tampa-airport-07-USAIRPORTSWB22-995e6829248c4f35b28cd071aa34cbbe.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-11{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/w-seattle-living-room-04-SEATTLEWB22-92f3e1094a9044fdbeadb0137fb53f1a.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-12{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/white-elephant-palm-beach-19_100HTLSWB22-4f74d0f99c5d41769049e996df06b499.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-13{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/w-seattle-living-room-04-SEATTLEWB22-92f3e1094a9044fdbeadb0137fb53f1a.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-14{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/boutique-hotel-alhambra-636369310327818952_400_225@2x.jpeg);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-15{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/w-seattle-living-room-04-SEATTLEWB22-92f3e1094a9044fdbeadb0137fb53f1a.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-16{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/pickering-house-inn-04_100HTLSWB22-25b9809f81f740d6a3347601ad2b799f.webp);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
+
+.card-17{
+    height: 500px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin: ;
+    background-image: url(../image/background\ imag\ 02.jpg);
+    color:;
+    display:inline-block;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px 40px;
+}
